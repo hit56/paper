@@ -9,3 +9,4 @@ An Empirical Study on Real-World Use Cases](https://arxiv.org/pdf/2303.14742)
 标点
 1. [Modeling Punctuation Prediction as Machine Translation](https://aclanthology.org/2011.iwslt-papers.7.pdf)
 2. [Controllable Time-Delay Transformer for Real-Time Punctuation Prediction and Disfluency Detection](https://arxiv.org/pdf/2003.01309)
+3. 2016:[Punctuation Prediction for Unsegmented Transcript Based on Word Vector](https://aclanthology.org/L16-1103.pdf)
