@@ -1,7 +1,7 @@
 # paper
 我近期阅读的论文
 ## ITN
-1. 1996 [Multilingual Text Analysis for Text-to-Speech Synthesis](https://arxiv.org/pdf/cmp-lg/9608012)这是一篇古老的论文，用有限状态自动机的方法解决文本标准化的问题。
+1. 1996 [Multilingual Text Analysis for Text-to-Speech Synthesis](https://arxiv.org/pdf/cmp-lg/9608012)这是一篇古老的论文，用有限状态自动机的方法解决文本标准化的问题。它提出了一种基于加权有限状态转换器（WFSTs）的模型，为多数文本标准化问题提供了统一的解决框架。
 
 ## 智能体
 1. [Exploring the Impact of Instruction Data Scaling on Large Language Models:
