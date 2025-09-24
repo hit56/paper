@@ -3,6 +3,9 @@
 ## ITN
 1. 1996 [Multilingual Text Analysis for Text-to-Speech Synthesis](https://arxiv.org/pdf/cmp-lg/9608012)这是一篇古老的论文，用有限状态自动机的方法解决文本标准化的问题。它提出了一种基于加权有限状态转换器（WFSTs）的模型，为多数文本标准化问题提供了统一的解决框架。
 
+## 纠错
+1. 2024 [Denoising LM: Pushing the Limits of Error Correction Models for Speech Recognition](https://arxiv.org/pdf/2405.15216) 这篇文章用大模型对语音识别的结果进行了纠错。纠错语料对来自于：先拿正确文本输入到TTS系统，再拿得到的音频输入ASR系统得到语音识别结果，这样就得到了纠错语料对了。
+
 ## 智能体
 1. [Exploring the Impact of Instruction Data Scaling on Large Language Models:
 An Empirical Study on Real-World Use Cases](https://arxiv.org/pdf/2303.14742)
