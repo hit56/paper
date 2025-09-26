@@ -5,7 +5,7 @@
 
 ## 纠错
 1. 2024 [Denoising LM: Pushing the Limits of Error Correction Models for Speech Recognition](https://arxiv.org/pdf/2405.15216) 这篇文章用大模型对语音识别的结果进行了纠错。纠错语料对来自于：先拿正确文本输入到TTS系统，再拿得到的音频输入ASR系统得到语音识别结果，这样就得到了纠错语料对了。
-2. 2023 引用量79 [GENERATIVE SPEECH RECOGNITION ERROR CORRECTION WITH LARGE LANGUAGE MODELS AND TASK-ACTIVATING PROMPTING](https://assets.amazon.science/77/26/6c265e0a42d7a40d2ee8bdd158e6/generative-speech-recognition-error-correction-with-large-language-models-and-task-activating-prompting.pdf) 这篇论文首次使用prompt工程队第一遍ASR的N-best输出进行重打分从而实现纠错。由于年代比较早，以至于里面用的大模型居然还是GPT-2。
+2. 2023 引用量79 [GENERATIVE SPEECH RECOGNITION ERROR CORRECTION WITH LARGE LANGUAGE MODELS AND TASK-ACTIVATING PROMPTING](https://assets.amazon.science/77/26/6c265e0a42d7a40d2ee8bdd158e6/generative-speech-recognition-error-correction-with-large-language-models-and-task-activating-prompting.pdf) 这篇论文首次使用prompt工程队第一遍ASR的N-best输出进行重打分从而实现纠错。由于年代比较早，以至于里面用的大模型居然还有GPT-2。从论文中可以看到，随着模型参数量的增加，纠错的效果越明显。
 
 ## 智能体
 1. [Exploring the Impact of Instruction Data Scaling on Large Language Models:
