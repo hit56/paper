@@ -11,7 +11,7 @@
 3. 2023 引用量77 [Can Generative Large Language Models Perform ASR Error Correction?](https://arxiv.org/pdf/2307.04172) 这也是一篇用n-best候选结果给chatGPT，让chatGPT来得到纠错结果。他们发现仅给最优的ASR结果给大模型，纠错效果并不好。
 4. 2024 SLT 引用量8 [Evolutionary Prompt Design for LLM-Based Post-ASR Error Correction](https://arxiv.org/pdf/2407.16370) 这篇文章其实一直就是在优化prompt，看看哪个prompt更好，更能产生更好的纠错效果
 5. 2024 InterSpeech 引用量17 [Investigating ASR Error Correction with Large Language Model and Multilingual 1-best Hypotheses](https://www.isca-archive.org/interspeech_2024/li24h_interspeech.pdf) 这篇文章跟我的思路有点像，也是用大模型去纠错，并且是用1-best，取得的效果很好。
-6. 2024 SLT 引用量12 [Large Language Model Based Generative Error Correction: A Challenge and Baselines for Speech Recognition, Speaker Tagging, and Emotion Recognition](https://arxiv.org/pdf/2409.09785) 
+6. 2024 SLT 引用量12 [Large Language Model Based Generative Error Correction: A Challenge and Baselines for Speech Recognition, Speaker Tagging, and Emotion Recognition](https://arxiv.org/pdf/2409.09785) 这篇文章也是用大模型去纠错，并提出了ASR后处理的三大任务挑战：纠错、说话人识别、情感识别。
 
 ## 智能体
 1. [Exploring the Impact of Instruction Data Scaling on Large Language Models:
